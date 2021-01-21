@@ -18,4 +18,5 @@ All questions should be posted on Piazza instead of using emails.
 | :---------------- | :--- | :----------- |
 | [Hong Xu](https://henryhxu.github.io/) | Faculty | Th 1-3 pm, SHB 914. **By appointments only.**
 | [Chuanwen Wang](mailto:cwwang@cse.cuhk.edu.hk) | Head TA | 
-| [Yang Yu](mailto:yangyu@cse.cuhk.edu.hk)
+| [Yang Yu](mailto:yangyu@cse.cuhk.edu.hk) | TA |
+
