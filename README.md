@@ -20,3 +20,14 @@ All questions should be posted on Piazza instead of using emails.
 | [Chuanwen Wang](mailto:cwwang@cse.cuhk.edu.hk) | Head TA | 
 | [Yang Yu](mailto:yangyu@cse.cuhk.edu.hk) | TA |
 
+### Grading
+| Accessment item | Weight | 
+| :---------------- | :--- | 
+| Programming Assignments (x3) | 39% 
+| Programming Project | 30%  
+| Final Exam | 31%
+
+
+## Lecture schedule
+
+## Tutorial schedule
