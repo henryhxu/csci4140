@@ -53,3 +53,6 @@ Slides are downloadable from **CUHK network** only.
 The course project is free-style and leverages today's open-source development tools/methodology. Our aim is to bring in the fun in developing a complete project. Students can work in a group of up to **2 members**. We don't have any sample ideas for you to "borrow". Instead, you will propose your own project that all your team members are excited about.
 
 As a matter of fact, you're not free to implement anything, or disregrading a fair workload-to-score ratio. The course instructor and the tutors will meet the students in order to sort out an estimated score for whatever plans a team has proposed. We will host two project discussion sessions to help decide the project topic.
+
+### Phase 0: Forming groups
+**Deadline: 23:39 Jan 30, 2021, HKT**
