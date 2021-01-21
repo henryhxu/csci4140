@@ -10,7 +10,7 @@
   * Thu 9:30 -- 10:15am, [link](https://cuhk.zoom.us/j/93998942537?pwd=SUczVHdveGVJeE9RL0JHZDBCaGc0dz09)
 
 ### Piazza
-The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2021/csci4140/home).
+- The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2021/csci4140/home).
 All questions should be posted on Piazza instead of using emails.
 
 ### Instructors
