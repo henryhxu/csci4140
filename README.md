@@ -1,5 +1,4 @@
-- [CSCI 4140: Open Source Software Project Development (2021 Spring)](#csci-4140--open-source-software-project-development--2021-spring-)
- 
+
 # CSCI 4140: Open Source Software Project Development (2021 Spring)
 
 ## Course Information
