@@ -39,8 +39,8 @@ Slides are downloadable from **CUHK network** only.
 
 Slides are downloadable from **CUHK network** only.
 
-| Date | Topic | 
-| :---------------- | :--- |
+| Week | Date | Topic | 
+| :---------------- | :--- | :--- |
 
 ## Assignments
 
