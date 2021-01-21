@@ -2,7 +2,7 @@
 
 ## Administrivia
 
-### Schedule and Zoom meetings (CUHK only)
+### Schedule and Zoom meetings (CUHK account required)
 - Lectures: 
   * Wed 10:30am -- 12:15pm, [link](https://cuhk.zoom.us/j/96266396796?pwd=UEhCcTNkSk5TWTdPSGE2clpyN09zZz09)
   * Thu 5:30 -- 6:15pm, [link](https://cuhk.zoom.us/j/94316760117?pwd=YUE0VHhxNFpLTWFxM2JkNW1PWmhWQT09)
@@ -27,7 +27,12 @@ All questions should be posted on Piazza instead of using emails.
 | Programming Project | 30%  
 | Final Exam | 31%
 
-
 ## Lecture schedule
+
+Slides are downloadable from **CUHK network** only.
+
+| Date | Topic | Slides |
+| :---------------- | :--- | :----------- |
+| 1/13 | Introduction | http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf 
 
 ## Tutorial schedule
