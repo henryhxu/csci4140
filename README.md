@@ -33,6 +33,6 @@ Slides are downloadable from **CUHK network** only.
 
 | Date | Topic | Slides |
 | :---------------- | :--- | :----------- |
-| 1/13 | Introduction | http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf 
+| 1/13 | Introduction | [1_Intro.pdf](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf)
 
 ## Tutorial schedule
