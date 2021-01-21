@@ -31,8 +31,19 @@ All questions should be posted on Piazza instead of using emails.
 
 Slides are downloadable from **CUHK network** only.
 
-| Date | Topic | Slides |
-| :---------------- | :--- | :----------- |
-| 1/13 | Introduction | [1_Intro.pdf](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf)
+| Date | Topic | 
+| :---------------- | :--- | 
+| 1/13 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf)  
 
 ## Tutorial schedule
+
+Slides are downloadable from **CUHK network** only.
+
+| Date | Topic | 
+| :---------------- | :--- |
+
+## Assignments
+
+| Assignment | Deadline | 
+| :---------------- | :--- | 
+| [Assignment 1]() | 23:59, February 20, 2021 HKT 
