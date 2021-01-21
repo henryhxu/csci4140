@@ -11,6 +11,7 @@
 
 ### Piazza
 The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2021/csci4140/home).
+All questions should be posted on Piazza instead of using emails.
 
 ### Instructors
 | Member | Role | Office Hours |
