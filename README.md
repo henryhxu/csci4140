@@ -31,9 +31,9 @@ All questions should be posted on Piazza instead of using emails.
 
 Slides are downloadable from **CUHK network** only.
 
-| Date | Topic | 
-| :---------------- | :--- | 
-| 1/13 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf)  
+| Week | Date | Topic | Date | Topic |
+| :---------------- | :--- | :--- | :--- | :--- |
+| 1 | 1/13 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf) | 1/14 | [Version control system](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
 
 ## Tutorial schedule
 
