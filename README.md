@@ -68,13 +68,14 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 
 ### Phase 1: Topic Discussion
 
-February 24 (tentative)
+**Deadline: 23:59 February 24, 2021 HKT (tentative)**
+
 Please find the time of your group's appointment for a six-minute discussion with the course instructors at [this link](https://).
 You will need to submit a project proposal (5% of your project mark) before the meeting. The proposal is due at 23:59 February 24, 2021 HKT.
 
 ### Phase 2: Topic Decision & Details
 
-March 9 (tentative)
+**Deadline: 23:59 March 9, 2021 HKT (tentative)**
 
 Please meet with the course instructors for a seven-minute discussion. Your discussion time can be found at [this link](https://).
 
@@ -84,15 +85,15 @@ You will need to finalize your project proposal (5% of your project mark) before
 
 After you have finalized your proposal till project submission deadline.
 
-Due: April 30.
+**Deadline: April 30**
 
 You will need to submit the source code, and a report of your project (60% of your project mark).  
 Students are required to submit a signed declaration form that can be downloaded [here](misc/declaration_form.pdf). Failure to comply with the University Policy may result in disciplinary action.
 
 ### Phase 4: Project Presentation
 
-Time: April 21,22.  
-Location: Online.
+**Time: April 21,22** 
+**Location: Online**
 
 You will demonstrate what you have built in this semester to your classmates and the teaching team. Each group will have 10 minutes (including 2-minute Q&A) for the presentation.  
 The presentation is worth 30% of your project mark. Your project will be evaluated by other groups in the presentation.  
@@ -105,7 +106,7 @@ Please submit your presentation slides to BlackBoard.
 
 ## Final Exam
 
-Time: TBD. Location: TBD.
+**Time: TBD. Location: TBD.**
 
 ## Course Policies
 
