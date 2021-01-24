@@ -60,7 +60,6 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 ### Phase 0: Forming groups
 **Deadline: 23:39 Jan 30, 2021, HKT**
 
-**Group List**
 | No. | Members | Topic | 
 | :---------------- | :--- | :--- |
 |1|WANG Tianchang 1155107799, LUO Yiyang 1155124470||
