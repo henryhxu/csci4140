@@ -57,7 +57,7 @@ The course project is free-style and leverages today's open-source development t
 
 As a matter of fact, you're not free to implement anything, or disregrading a fair workload-to-score ratio. The course instructor and the tutors will meet the students in order to sort out an estimated score for whatever plans a team has proposed. We will host two project discussion sessions to help decide the project topic.
 
-### Phase 0: Forming groups
+### Phase 0: Forming Groups
 **Deadline: 23:39 Jan 30, 2021, HKT**
 
 | No. | Members | Topic | 
