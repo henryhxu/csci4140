@@ -65,7 +65,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 | :---------------- | :--- | :--- |
 |1|WANG Tianchang 1155107799, LUO Yiyang 1155124470||
 |2|Ding Baizeng 1155124617, Han Tianyang 1155091993||
-|...|||
+|3|Cheng Mo 1155144832, Li Yan Lap 1155127269||
 
 ### Phase 1: Topic Discussion
 
