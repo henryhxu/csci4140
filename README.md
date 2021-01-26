@@ -35,8 +35,8 @@ Slides are downloadable from **CUHK network** only.
 | :---------------- | :--- | :--- | :--- | :--- |
 | 1 | 1/13 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf) | 1/14 | [Version control system](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
 | 2 | 1/20 | [Introduction to web applications](http://course.cse.cuhk.edu.hk/~csci4140/slides/3_Web-App.pdf) 
-| 1/21 | [Scripting & Interpreted Language](http://course.cse.cuhk.edu.hk/~csci4140/slides/4_Scripting.pdf)
-| 1/27 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/slides/5_PHP.pdf)
+| 3 | 1/21 | [Scripting & Interpreted Language](http://course.cse.cuhk.edu.hk/~csci4140/slides/4_Scripting.pdf)
+| 4 | 1/27 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/slides/5_PHP.pdf)
 
 
 ## Tutorial schedule
