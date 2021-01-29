@@ -70,6 +70,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 |3|Cheng Mo 1155144832, Li Yan Lap 1155127269||
 |4|Leong Chon Hou 1155113489, Tsui Nga Yin 1155102438 ||
 |5|Myratgeldi Jumageldiyev 1155118066, Alshir Soyunjov 1155119170||
+|6|Ng Ka Wang 1155125265, Lo Tsz Fung 1155109312||
 
 ### Phase 1: Topic Discussion
 
