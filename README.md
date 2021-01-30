@@ -72,6 +72,8 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 |5|Myratgeldi Jumageldiyev 1155118066, Alshir Soyunjov 1155119170||
 |6|Ng Ka Wang 1155125265, Lo Tsz Fung 1155109312||
 |7|Rustami Ubaydullo 1155102622, Sean Kevin O'Hare 1155116399||
+|8|Jimmy Chim Lam CHU 1155110971 ||
+|9|CHEUNG Hon San 1155110567, TONG Kai Tik 1155133189||
 
 ### Phase 1: Topic Discussion
 
