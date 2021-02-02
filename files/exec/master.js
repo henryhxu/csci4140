@@ -13,7 +13,7 @@ for(var i=0; i<3; i++) {
       console.log('stderr: ' + stderr);
   });
 
-  console.log('Value of i here is ' + i);
+  // console.log('Value of i here is ' + i);
   workerProcess.on('exit', function (code) {
   console.log('Child process exited with exit code '+code);
   });
