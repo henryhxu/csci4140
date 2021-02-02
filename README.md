@@ -74,6 +74,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 |7|Rustami Ubaydullo 1155102622, Sean Kevin O'Hare 1155116399||
 |8|Jimmy Chim Lam CHU 1155110971 ||
 |9|CHEUNG Hon San 1155110567, TONG Kai Tik 1155133189||
+|10|ZHENG Zeqin 1155108667, Wong Kin Chi 1155109665 ||
 
 ### Phase 1: Topic Discussion
 
