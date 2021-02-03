@@ -37,6 +37,8 @@ Slides are downloadable from **CUHK network** only.
 | 2 | 1/20 | [Introduction to web applications](http://course.cse.cuhk.edu.hk/~csci4140/slides/3_Web-App.pdf)  | 1/21 | [Scripting & Interpreted Language](http://course.cse.cuhk.edu.hk/~csci4140/slides/4_Scripting.pdf)
 | 3 | 1/27 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/slides/5_PHP.pdf) | 1/28 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf)
 | 4 | 2/3 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf) | 2/4 | [Authentication](http://course.cse.cuhk.edu.hk/~csci4140/slides/7_Authentication.pdf)
+| 5 | 2/10 | TBD | 2/11 | Chinese New Year holiday! |
+| 6 | 2/17 | Chinese New Year holiday! | 2/18 | TBD |
 
 
 
@@ -49,6 +51,11 @@ Slides are downloadable from **CUHK network** only.
 | 1 | 1/14 | [Git](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_1.pptx) |
 | 2 | 1/21 | [CSS](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_2.pptx) |
 | 3 | 1/28 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_3.pptx) |
+| 4 | 2/4 | |
+| 5 | 2/11 | Chinese New Year holiday! |
+| 6 | 2/18 | TBD |
+
+
 
 ## Assignments
 
