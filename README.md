@@ -49,6 +49,7 @@ Slides are downloadable from **CUHK network** only.
 | 1 | 1/14 | [Git](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_1.pptx) |
 | 2 | 1/21 | [CSS](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_2.pptx) |
 | 3 | 1/28 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_3.pptx) |
+| 4 | 2/4 |  [Heroku & Database Connection](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_4.pptx)
 
 ## Assignments
 
