@@ -51,10 +51,9 @@ Slides are downloadable from **CUHK network** only.
 | 1 | 1/14 | [Git](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_1.pptx) |
 | 2 | 1/21 | [CSS](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_2.pptx) |
 | 3 | 1/28 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_3.pptx) |
-| 4 | 2/4 | |
+| 4 | 2/4 |  [Heroku & Database Connection](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_4.pptx)
 | 5 | 2/11 | Chinese New Year holiday! |
 | 6 | 2/18 | TBD |
-
 
 
 ## Assignments
@@ -84,6 +83,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 |8|Jimmy Chim Lam CHU 1155110971 ||
 |9|CHEUNG Hon San 1155110567, TONG Kai Tik 1155133189||
 |10|ZHENG Zeqin 1155108667, Wong Kin Chi 1155109665 ||
+|11|Chan Chi Chung 1155094762, Chan Kwun To   1155092996 ||
 
 ### Phase 1: Topic Discussion
 
