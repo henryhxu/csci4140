@@ -60,7 +60,7 @@ Slides are downloadable from **CUHK network** only.
 
 | Assignment | Deadline | 
 | :---------------- | :--- | 
-| [Assignment 1](http://course.cse.cuhk.edu.hk/~csci4140/assignments/CSCI4140_Assginment_1.pdf) | 23:59,February 20, 2021 HKT 
+| [Assignment 1](http://course.cse.cuhk.edu.hk/~csci4140/assignments/CSCI4140_Assginment_1.pdf), [Github Classroom Tutorial](http://course.cse.cuhk.edu.hk/~csci4140/assignments/github_classroom_tutorial-2.mov)| 23:59,February 20, 2021 HKT 
 
 ## Project
 
