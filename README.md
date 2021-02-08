@@ -60,7 +60,7 @@ Slides are downloadable from **CUHK network** only.
 
 | Assignment | Deadline | 
 | :---------------- | :--- | 
-| [Assignment 1]() | 23:59, February 20, 2021 HKT 
+| [Assignment 1](http://course.cse.cuhk.edu.hk/~csci4140/assignments/CSCI4140_Assginment_1.pdf), [Github Classroom Tutorial](http://course.cse.cuhk.edu.hk/~csci4140/assignments/github_classroom_tutorial-2.mov), [Heroku Deployment Tutorial](http://course.cse.cuhk.edu.hk/~csci4140/assignments/heroku-deployment.mov)| 23:59,February 20, 2021 HKT 
 
 ## Project
 
@@ -84,6 +84,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 |9|CHEUNG Hon San 1155110567, TONG Kai Tik 1155133189||
 |10|ZHENG Zeqin 1155108667, Wong Kin Chi 1155109665 ||
 |11|Chan Chi Chung 1155094762, Chan Kwun To   1155092996 ||
+|12|CHEN Ying Chi 1155100383, YEH Shann Wei 1155100333 ||
 
 ### Phase 1: Topic Discussion
 
