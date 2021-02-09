@@ -37,7 +37,7 @@ Slides are downloadable from **CUHK network** only.
 | 2 | 1/20 | [Introduction to web applications](http://course.cse.cuhk.edu.hk/~csci4140/slides/3_Web-App.pdf)  | 1/21 | [Scripting & Interpreted Language](http://course.cse.cuhk.edu.hk/~csci4140/slides/4_Scripting.pdf)
 | 3 | 1/27 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/slides/5_PHP.pdf) | 1/28 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf)
 | 4 | 2/3 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf) | 2/4 | [Authentication](http://course.cse.cuhk.edu.hk/~csci4140/slides/7_Authentication.pdf)
-| 5 | 2/10 | [Sessions](http://course.cse.cuhk.edu.hk/~csci4140/slides/8_Session.pdf), [Javascript-1] | 2/11 | Chinese New Year holiday! |
+| 5 | 2/10 | [Sessions](http://course.cse.cuhk.edu.hk/~csci4140/slides/8_Session.pdf), [Javascript-1]() | 2/11 | Chinese New Year holiday! |
 | 6 | 2/17 | Chinese New Year holiday! | 2/18 | TBD |
 
 
