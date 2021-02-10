@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <h1>Hello World!</h1>
+    <script>
+      var object = {firstName: "Alice", lastName: "Smith", age: 23};
+      var firstName = object["firstName"];
+      document.write("First Name is " + firstName + "<br>");
+      var age = object.age;
+      document.write("Age is " + age + "<br>");
+      object.fullName = function () {
+        return this.firstName + " " + this.lastName;
+      }
+      var fullName = object.fullName();
+      document.write("Full name is " + fullName + "<br>");
+    </script>
+  </body>
+</html>
