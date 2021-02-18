@@ -21,7 +21,7 @@ All questions should be posted on Piazza instead of using emails.
 | [Yang Yu](mailto:yangyu@cse.cuhk.edu.hk) | TA |
 
 ### Grading
-| Accessment item | Weight | 
+| Assessment item | Weight | 
 | :---------------- | :--- | 
 | Programming Assignments (x3) | 39% 
 | Programming Project | 30%  
@@ -38,7 +38,7 @@ Slides are downloadable from **CUHK network** only.
 | 3 | 1/27 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/slides/5_PHP.pdf) | 1/28 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf)
 | 4 | 2/3 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf) | 2/4 | [Authentication](http://course.cse.cuhk.edu.hk/~csci4140/slides/7_Authentication.pdf)
 | 5 | 2/10 | [Sessions](http://course.cse.cuhk.edu.hk/~csci4140/slides/8_Session.pdf) | 2/11 | Chinese New Year holiday! |
-| 6 | 2/17 | Chinese New Year holiday! | 2/18 | [Javascript-1]() |
+| 6 | 2/17 | Chinese New Year holiday! | 2/18 | [Javascript-1](http://course.cse.cuhk.edu.hk/~csci4140/slides/9_Javascript-1.pdf) |
 
 
 
