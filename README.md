@@ -94,7 +94,7 @@ Please find the time of your group's appointment for a six-minute discussion
 with the course instructors at [this link](https://). You will need to submit a
 project proposal (5% of your project mark) before the meeting. The proposal is
 due at 23:59 February 24, 2021 HKT.
-The submission instructions are available [here](#project-writing)
+The submission instructions are available [here](#proposal-and-report-submission-instructions)
 
 ### Phase 2: Topic Decision & Details
 
@@ -127,7 +127,6 @@ Please submit your presentation slides to BlackBoard.
 | Group No. | Time | Repo | 
 | :---------------- | :--- | :--- |
 
-[](#project-writing)
 ### Proposal and report submission instructions
 - Submit on [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_145962_1/cl/outline), by going to the corresponding entries under "Course contents". You can submit as many times as you want and we only take the latest version to grade.
 - Submit PDF files only. Submissions in other file formats will result in ZERO marks for this item.
