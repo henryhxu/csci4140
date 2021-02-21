@@ -88,21 +88,21 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 
 ### Phase 1: Topic Discussion
 
-**Deadline: 23:59 February 27, 2021 HKT (tentative)**
+**Deadline: 23:59 February 27, 2021 HKT**
 
 Please find the time of your group's appointment for a six-minute discussion
-with the course instructors at [this link](https://). You will need to submit a
-project proposal (5% of your project mark) before the meeting. The proposal is
-due at 23:59 February 24, 2021 HKT.
-The submission instructions are available [here](#proposal-and-report-submission-instructions)
+with the course instructors at [this doodle
+link](https://doodle.com/poll/it9hw6z9ny78cdpd?utm_source=poll&utm_medium=link).
+You will need to submit a project proposal (5% of your project mark) before the
+meeting. The submission instructions are available
+[here](#proposal-and-report-submission-instructions).
 
 ### Phase 2: Topic Decision & Details
 
 **Deadline: 23:59 March 9, 2021 HKT (tentative)**
 
-Please meet with the course instructors for a seven-minute discussion. Your discussion time can be found at [this link](https://).
-
-You will need to finalize your project proposal (5% of your project mark) before the meeting. The proposal is due at 23:59 March 9, 2021 HKT.
+You will need to finalize your project proposal (5% of your project mark) before
+the deadline.
 
 ### Phase 3: Building Your Project
 
@@ -126,6 +126,7 @@ Please submit your presentation slides to BlackBoard.
 **Presentation Schedule**
 | Group No. | Time | Repo | 
 | :---------------- | :--- | :--- |
+
 
 ### Proposal and report submission instructions
 - Submit on [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_145962_1/cl/outline), by going to the corresponding entries under "Course contents". You can submit as many times as you want and we only take the latest version to grade.
