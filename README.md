@@ -92,9 +92,10 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 
 Please find the time of your group's appointment for a six-minute discussion
 with the course instructors at [this doodle
-link](https://doodle.com/poll/it9hw6z9ny78cdpd?utm_source=poll&utm_medium=link).
-You will need to submit a project proposal (5% of your project mark) before the
-meeting. The submission instructions are available
+link](https://doodle.com/poll/it9hw6z9ny78cdpd?utm_source=poll&utm_medium=link)
+using your group ID. Post a question on Piazza if none of the timeslots there
+works for you. You will need to submit a project proposal (5% of your project
+mark) before the meeting. The submission instructions are available
 [here](#proposal-and-report-submission-instructions).
 
 ### Phase 2: Topic Decision & Details
