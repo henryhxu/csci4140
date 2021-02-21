@@ -42,7 +42,6 @@ Slides are downloadable from **CUHK network** only.
 | 7 | 2/24 | [Javascript-1](http://course.cse.cuhk.edu.hk/~csci4140/slides/9_Javascript-1.pdf) | 2/25 | [Javascript-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/10_Javascript-2.pdf) |
 
 
-
 ## Tutorial schedule
 
 Slides are downloadable from **CUHK network** only.
@@ -89,10 +88,13 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 
 ### Phase 1: Topic Discussion
 
-**Deadline: 23:59 February 24, 2021 HKT (tentative)**
+**Deadline: 23:59 February 27, 2021 HKT (tentative)**
 
-Please find the time of your group's appointment for a six-minute discussion with the course instructors at [this link](https://).
-You will need to submit a project proposal (5% of your project mark) before the meeting. The proposal is due at 23:59 February 24, 2021 HKT.
+Please find the time of your group's appointment for a six-minute discussion
+with the course instructors at [this link](https://). You will need to submit a
+project proposal (5% of your project mark) before the meeting. The proposal is
+due at 23:59 February 24, 2021 HKT.
+The submission instructions are available [here](#project-writing)
 
 ### Phase 2: Topic Decision & Details
 
@@ -124,6 +126,13 @@ Please submit your presentation slides to BlackBoard.
 **Presentation Schedule**
 | Group No. | Time | Repo | 
 | :---------------- | :--- | :--- |
+
+[](#project-writing)
+### Proposal and report submission instructions
+- Submit on [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_145962_1/cl/outline), by going to the corresponding entries under "Course contents". You can submit as many times as you want and we only take the latest version to grade.
+- Submit PDF files only. Submissions in other file formats will result in ZERO marks for this item.
+- Page limit: 1 page for the proposal, 5 pages for the report. Page limit includes everything, e.g. figures and references if any. Do NOT use a cover page with just title and authors; just include the author info on the first page. Reports that exceed the page limit will result in 30% deduction of marks automatically.
+- Format: A-4 size paper, 12pt Times New Roman, single-lined spacing, single column. Violation of these formatting requirements will result in 30% deduction of marks automatically.
 
 ## Final Exam
 
