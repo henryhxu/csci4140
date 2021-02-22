@@ -1,0 +1,25 @@
+<html>
+  <body>
+    <script>
+      var a = [0, 1, 2];
+      var result = "";
+      a[5] = 5;
+      for (var i = 0; i < a.length; i++) {
+        result += a[i] + ", " ;
+      }
+      document.write(result + "<br>");
+      a.length = 1;
+      result = "";
+      for (var i = 0; i < a.length; i++) {
+        result += a[i] + ", " ;
+      }
+      document.write(result + "<br>");
+      a.length = 10;
+      result = "";
+      for (var i = 0; i < a.length; i++) {
+        result += a[i] + ", " ;
+      }
+      document.write(result + "<br>");
+    </script>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+<html>
+  <body>
+    <h1>Hello World!</h1>
+    <script>
+      function Rectangle(w, h) {
+        this.width = w;
+        this.height = h;
+        this.area = function() {
+          return this.width * this.height;
+        }
+      }
+      var r = new Rectangle(2, 3);
+      document.write("Area is " + r.area() + "<br>");
+    </script>
+  </body>
+</html>

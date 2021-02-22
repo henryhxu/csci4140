@@ -1,0 +1,23 @@
+<html>
+  <body>
+    <script>
+      var a = new Array();
+      a[0] = "This";
+      a[1] = "is";
+      a["This"] = "a";
+      a["is"] = "JavaScript";
+      document.write("a's length is " + a.length + ", a is array? " + Array.isArray(a) +  "<br>");
+      a[5] = "array";
+      a.push("!");
+      for (var key in a) {
+        document.write("a[" + key + "]: " + a[key] + "<br>");
+      }
+    //   document.write(a + "<br>");
+      document.write("a's length now is " + a.length + "<br>");
+
+      for (var i = 0; i < a.length; i++) {
+          document.write("a[" + i + "]: " + a[i] + "<br>");
+      }
+    </script>
+  </body>
+</html>
