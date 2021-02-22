@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <h1>Hello World!</h1>
+    <script>
+      document.write(this + "<br>");
+      document.write(this === window);
+      document.write("<br><br>");
+
+      for (var key in this) {
+        document.write("this." + key + ": " + this[key] + "<br>");
+      }
+    </script>
+  </body>
+</html>
