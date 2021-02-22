@@ -4,8 +4,8 @@
       var a = new Array();
       a[0] = "This";
       a[1] = "is";
-      a["This"] = "a";
-      a["is"] = "JavaScript";
+      a["Country"] = "China";
+      a["Lang"] = "JavaScript";
       document.write("a's length is " + a.length + ", a is array? " + Array.isArray(a) +  "<br>");
       a[5] = "array";
       a.push("!");
@@ -18,6 +18,8 @@
       for (var i = 0; i < a.length; i++) {
           document.write("a[" + i + "]: " + a[i] + "<br>");
       }
+      
+      document.write("a's property 'Country' is " + a.Country + "<br>");
     </script>
   </body>
 </html>
