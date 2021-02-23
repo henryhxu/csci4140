@@ -39,7 +39,7 @@ Slides are downloadable from **CUHK network** only.
 | 4 | 2/3 | [Node](http://course.cse.cuhk.edu.hk/~csci4140/slides/6_Node.pdf) | 2/4 | [Authentication](http://course.cse.cuhk.edu.hk/~csci4140/slides/7_Authentication.pdf)
 | 5 | 2/10 | [Sessions](http://course.cse.cuhk.edu.hk/~csci4140/slides/8_Session.pdf) | 2/11 | Chinese New Year holiday! |
 | 6 | 2/17 | Chinese New Year holiday! | 2/18 | [Javascript-1](http://course.cse.cuhk.edu.hk/~csci4140/slides/9_Javascript-1.pdf) |
-| 7 | 2/24 | [Javascript-1](http://course.cse.cuhk.edu.hk/~csci4140/slides/9_Javascript-1.pdf) | 2/25 | [Javascript-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/10_Javascript-2.pdf) |
+| 7 | 2/24 | [Javascript-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/10_Javascript-2.pdf) | 2/25 | [Javascript-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/10_Javascript-2.pdf) |
 
 
 ## Tutorial schedule

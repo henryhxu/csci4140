@@ -1,0 +1,21 @@
+<html>
+  <body>
+    <h1>Hello World!</h1>
+    <p id="ajax"></p>
+    <script>
+      var request = new XMLHttpRequest();
+      request.open("GET", "ajax_data.txt", true);
+      request.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {
+            document.getElementById("ajax").innerHTML = request.responseText;
+          }
+          else {
+            alert("An error occurred! "+request.status);
+          }
+        }
+      };
+      request.send();
+    </script>
+  </body>
+</html>
