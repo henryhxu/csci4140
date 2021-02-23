@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <style>
+       body * {
+        margin: 20px;
+        border: 1px solid blue;
+      }
+    </style>
+    <script>
+    window.addEventListener("load", function() {
+      var nodes = document.body.querySelectorAll('*');
+      for (var i = 0; i < nodes.length; i++) {
+        nodes[i].addEventListener("click", function(event) {
+          alert("Capturing: "+this.tagName+" is the target? "+ (this === event.target));
+        }, true);
+      }
+    });
+    </script>
+  </head>
+  <body>
+    <form>
+      <div>
+        <p>Text</p>
+      </div>
+    </form>
+  </body>
+</html>

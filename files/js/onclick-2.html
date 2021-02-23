@@ -1,0 +1,15 @@
+<html>
+<body>
+  <h1>Hello World!</h1>
+  <div id="text"></div>
+  <button id="append_b">append</button>
+  <script>
+    var id = 0;
+    document.getElementById("append_b").onclick = function append(event) {
+      id++;
+      console.log(event);
+      document.getElementById("text").innerHTML += "<p>"+id+"</p>";
+    }
+  </script>
+</body>
+</html>

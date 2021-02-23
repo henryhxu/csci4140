@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <style>
+      body * {
+        margin: 20px;
+        border: 1px solid blue;
+      }
+    </style>
+  </head>
+  <body>
+    <form onclick="alert('form');">
+      <div onclick="event.stopPropagation();">
+        <p onclick="alert('p')">Text</p>
+      </div>
+    </form>
+  </body>
+</html>

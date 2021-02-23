@@ -1,0 +1,17 @@
+<html>
+<body>
+  <h1>Hello World!</h1>
+  <div id="text"></div>
+  <button id="append">append</button>
+  <script>
+    var id = 0;
+    var button = document.getElementById("append")
+    button.addEventListener("click", append);
+    function append(event) {
+      id++;
+      console.log(event);
+      document.getElementById("text").innerHTML += "<p>"+id+"</p>";
+    }
+  </script>
+</body>
+</html>
