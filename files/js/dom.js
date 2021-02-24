@@ -22,6 +22,7 @@ var id = 0;
 function append(){
   id++;
   var p = document.createElement("p");
+  p.id = id;
   var node = document.createTextNode(id+" - This is appended.");
   p.appendChild(node);
   var a = document.getElementById("container");
@@ -31,6 +32,7 @@ function append(){
 function insertBefore(){
   id++;
   var p = document.createElement("p");
+  p.id = id;
   p.innerText = id + " - This is inserted.";
   var a = document.getElementById("container");
   var b = document.getElementById("main_title");
