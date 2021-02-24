@@ -15,10 +15,11 @@
 
       var s4 = s3[0];
       document.write("The first character of s3 is " + s4 + "<br>");
+      document.write("The type of s4 is " + typeof(s4) + "<br>");
 
       s5 = new String(s5);
-      var s6 = s5.substr(1,3);
-      var s7 = s5.slice(-3, -1);
+      var s6 = s5.substr(1,3); // begin at s5[1], end at s5[3]
+      var s7 = s5.slice(-3, -1); // begin at s5[4-3], end at s5[4-1]
       document.write("s6 is " + s6 + "<br>s7 is " + s7 + "<br>");
     </script>
   </body>
