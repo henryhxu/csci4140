@@ -53,6 +53,7 @@ Slides are downloadable from **CUHK network** only.
 | 4 | 2/4 |  [Heroku & Database Connection](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_4.pptx)
 | 5 | 2/11 | Chinese New Year holiday! |
 | 6 | 2/18 | [Node.js](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_5.pptx) |
+| 7 | 2/25 | [Chrome Extension](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_6.pptx)
 
 
 ## Assignments
