@@ -23,6 +23,7 @@ function append(){
   id++;
   var p = document.createElement("p");
   p.id = id;
+  console.log("the new element's id is " + p.id);
   var node = document.createTextNode(id+" - This is appended.");
   p.appendChild(node);
   var a = document.getElementById("container");
@@ -35,16 +36,32 @@ function insertBefore(){
   p.id = id;
   p.innerText = id + " - This is inserted.";
   var a = document.getElementById("container");
-  var b = document.getElementById("main_title");
+  var b = document.getElementById("main");
   a.insertBefore(p, b);
 }
 
-function remove(){
+// function remove(){
+//     var p = document.getElementById("container");
+//     var children = p.childNodes;
+//     for (var i = 0; i < children.length; i++) {
+//       console.log(i);
+//       console.log("the current node's type is " + children[i].nodeType);
+//       // console.log(children[i].id);
+//       if (children[i].id != "main") {
+//         p.removeChild(children[i]);
+//       }
+//       console.log("not me");
+//     }
+//   } // wrong version, but try it and see what would happen
+
+// correct version using Node.children
+  function remove(){
     var p = document.getElementById("container");
-    var children = p.childNodes;
-    for (var i = 0; i < children.length; i++) {
-      if (children[i].id != "main_title") {
-        p.removeChild(children[i]);
+    var i = 0;
+    while(p.children.length != 1){
+      if (p.children[i].id == "main") {
+        i = i + 1;
       }
+      p.removeChild(p.children[i]);
     }
   }
