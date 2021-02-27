@@ -99,9 +99,13 @@ works for you. You will need to submit a project proposal (5% of your project
 mark) before the meeting. The submission instructions are available
 [here](#proposal-and-report-submission-instructions).
 
+**[Zoom meeting for the project discussion](https://cuhk.zoom.us/j/93556046358?pwd=eVZOU2RtUDJ4M25CZjJmR01Xc2toZz09)**
+
 Sample proposals can be found below:
 - Initial proposal: [sample 1](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP20-Initial-Proposal-1.pdf)
 - Final proposal: [sample 2](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP19-Final-Proposal-1.pdf), [sample 3](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP19-Final-Proposal-2.pdf)
+
+http://linux2.cse.cuhk.edu.hk/data/d0/cact/csci4140/www/sample_proposals/CSCI4140-SP20-Initial-Proposal-1.pdf
 
 ### Phase 2: Topic Decision & Details
 
