@@ -13,6 +13,10 @@ function dom(){
   a.addEventListener("click", function(evt) {
       remove();
   });
+  var a = document.getElementById("print");
+  a.addEventListener("click", function(evt) {
+    printChildNodes();
+  });
 }
 
 dom();
@@ -40,22 +44,7 @@ function insertBefore(){
   a.insertBefore(p, b);
 }
 
-// function remove(){
-//     var p = document.getElementById("container");
-//     var children = p.childNodes;
-//     for (var i = 0; i < children.length; i++) {
-//       console.log(i);
-//       console.log("the current node's type is " + children[i].nodeType);
-//       // console.log(children[i].id);
-//       if (children[i].id != "main") {
-//         p.removeChild(children[i]);
-//       }
-//       console.log("not me");
-//     }
-//   } // wrong version, but try it and see what would happen
-
-// correct version using Node.children
-  function remove(){
+function remove(){
     var p = document.getElementById("container");
     var i = 0;
     while(p.children.length != 1){
@@ -63,5 +52,13 @@ function insertBefore(){
         i = i + 1;
       }
       p.removeChild(p.children[i]);
+    }
+  }
+  function printChildNodes(){
+    var p = document.getElementById("container");
+    var children = p.childNodes;
+    for (var i = 0; i < children.length; i++) {
+      console.log("The current node's type is " + children[i].nodeType);
+      console.log("Node Text Content is " + children[i].textContent)
     }
   }
