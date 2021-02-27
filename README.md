@@ -90,6 +90,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 ### Phase 1: Topic Discussion
 
 **Deadline: 23:59 February 27, 2021 HKT**
+**Zoom meeting for the project discussion: [here](https://cuhk.zoom.us/j/93556046358?pwd=eVZOU2RtUDJ4M25CZjJmR01Xc2toZz09)**
 
 Please find the time of your group's appointment for a six-minute discussion
 with the course instructors at [this doodle
@@ -99,7 +100,6 @@ works for you. You will need to submit a project proposal (5% of your project
 mark) before the meeting. The submission instructions are available
 [here](#proposal-and-report-submission-instructions).
 
-**Zoom meeting for the project discussion: [here](https://cuhk.zoom.us/j/93556046358?pwd=eVZOU2RtUDJ4M25CZjJmR01Xc2toZz09)**
 
 Sample proposals can be found below:
 - Initial proposal: [sample 1](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP20-Initial-Proposal-1.pdf)
