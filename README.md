@@ -90,6 +90,7 @@ As a matter of fact, you're not free to implement anything, or disregrading a fa
 ### Phase 1: Topic Discussion
 
 **Deadline: 23:59 February 27, 2021 HKT**
+
 **Zoom meeting for the project discussion: [here](https://cuhk.zoom.us/j/93556046358?pwd=eVZOU2RtUDJ4M25CZjJmR01Xc2toZz09)**
 
 Please find the time of your group's appointment for a six-minute discussion
