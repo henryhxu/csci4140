@@ -133,7 +133,7 @@ Please submit your presentation slides to BlackBoard.
 ### Proposal and report submission instructions
 - Submit on [Blackboard](https://blackboard.cuhk.edu.hk/ultra/courses/_145962_1/cl/outline), by going to the corresponding entries under "Course contents". You can submit as many times as you want and we only take the latest version to grade.
 - Submit PDF files only. Submissions in other file formats will result in ZERO marks for this item.
-- Page limit: 1 page for the proposal, 5 pages for the report. Page limit includes everything, e.g. figures and references if any. Do NOT use a cover page with just title and authors; just include the author info on the first page. Reports that exceed the page limit will result in 30% deduction of marks automatically.
+- Page limit: 1 page for the initial proposal, 2 pages for the final proposal, 5 pages for the report. Page limit includes everything, e.g. figures and references if any. Do NOT use a cover page with just title and authors; just include the author info on the first page. Reports that exceed the page limit will result in 30% deduction of marks automatically.
 - Format: A-4 size paper, 12pt Times New Roman, single-lined spacing, single column. Violation of these formatting requirements will result in 30% deduction of marks automatically.
 
 ## Final Exam
