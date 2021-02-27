@@ -100,8 +100,8 @@ mark) before the meeting. The submission instructions are available
 [here](#proposal-and-report-submission-instructions).
 
 Sample proposals can be found below:
-- Initial proposal: [sample_1](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP20-Initial Proposal-1.pdf)
-- Final proposal: [sample_2](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP19-Final Proposal-1.pdf), [sample_3](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP19-Final Proposal-2.pdf)
+- Initial proposal: [sample 1](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP20-Initial Proposal-1.pdf)
+- Final proposal: [sample 2](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP19-Final Proposal-1.pdf), [sample 3](http://course.cse.cuhk.edu.hk/~csci4140/sample_proposals/CSCI4140-SP19-Final Proposal-2.pdf)
 
 ### Phase 2: Topic Decision & Details
 
