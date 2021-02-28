@@ -8,7 +8,7 @@
       request.send();
       if (request.readyState == 4) {
         if (request.status == 200) {
-          return request.responseText;
+          document.getElementById("ajax").innerHTML = request.responseText;
         }
         else {
           alert("An error occurred! "+request.status);
