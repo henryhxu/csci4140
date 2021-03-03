@@ -1,0 +1,16 @@
+{
+  "name": "A browser action with a popup that changes the page color",
+  "description": "Change the current page color",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+      "default_title": "Set this page's color.",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
+
+// The activeTab permission gives an extension temporary access to the currently active tab when the user invokes the extension - for example by clicking its browser action. Access to the tab lasts while the user is on that page, and is revoked when the user navigates away or closes the tab.
