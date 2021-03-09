@@ -40,7 +40,8 @@ Slides are downloadable from **CUHK network** only.
 | 5 | 2/10 | [Sessions](http://course.cse.cuhk.edu.hk/~csci4140/slides/8_Session.pdf) | 2/11 | Chinese New Year holiday! |
 | 6 | 2/17 | Chinese New Year holiday! | 2/18 | [Javascript-1](http://course.cse.cuhk.edu.hk/~csci4140/slides/9_JavaScript-1.pdf) |
 | 7 | 2/24 | [Javascript-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/10_JavaScript-2.pdf) | 2/25 | [Javascript-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/10_JavaScript-2.pdf) |
-| 8 | 3/3 | [Python](http://course.cse.cuhk.edu.hk/~csci4140/slides/11_Python.pdf) | 3/4 | [Communication](http://course.cse.cuhk.edu.hk/~csci4140/slides/12_Communication.pdf) |
+| 8 | 3/3 | [Python](http://course.cse.cuhk.edu.hk/~csci4140/slides/11_Python.pdf) | 3/4 | [Python](http://course.cse.cuhk.edu.hk/~csci4140/slides/11_Python.pdf) |
+| 9 | 3/10 | [Communication](http://course.cse.cuhk.edu.hk/~csci4140/slides/12_Communication.pdf), [VM and containers](http://course.cse.cuhk.edu.hk/~csci4140/slides/13_VM-Containers.pdf) | 3/10 | VM and containers |
 
 ## Tutorial schedule
 
