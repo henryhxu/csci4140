@@ -56,11 +56,11 @@ Slides are downloadable from **CUHK network** only.
 | 3 | 1/28 | [PHP](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_3.pptx) |
 | 4 | 2/4 |  [Heroku & Database Connection](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_4.pptx)
 | 5 | 2/11 | Chinese New Year holiday! |
-| 6 | 2/18 | [Node.js](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_5.pptx) |
-| 7 | 2/25 | [Chrome Extension](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_6.pptx)
-| 8 | 3/4 |  [Guide to Assignment 2](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_7.pptx)
-| 9 | 3/11 |[Bootstrap & React](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_9.pptx)
-| 10 | 3/18 | [Andriod Apps](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_10.pptx)
+| 5 | 2/18 | [Node.js](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_5.pptx) |
+| 6 | 2/25 | [Chrome Extension](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_6.pptx)
+| 7 | 3/4 |  [Guide to Assignment 2](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_7.pptx)
+| 8 | 3/11 |[Bootstrap & React](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_9.pptx)
+| 9 | 3/18 | [Andriod Apps](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_10.pptx)
 
 ## Assignments
 
