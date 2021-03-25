@@ -61,6 +61,7 @@ Slides are downloadable from **CUHK network** only.
 | 7 | 3/4 |  [Guide to Assignment 2](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_7.pptx)
 | 8 | 3/11 |[Bootstrap & React](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_9.pptx)
 | 9 | 3/18 | [Andriod Apps](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_10.pptx)
+| 10 | 3/25 | [Assignment 3](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_11.pptx)
 
 ## Assignments
 
