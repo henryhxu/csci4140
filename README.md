@@ -44,6 +44,8 @@ Slides are downloadable from **CUHK network** only.
 | 8 | 3/10 | [Communication](http://course.cse.cuhk.edu.hk/~csci4140/slides/12_Communication.pdf), [VM and containers](http://course.cse.cuhk.edu.hk/~csci4140/slides/13_Cloud.pdf) | 3/10 | VM and containers |
 | 9 | 3/17 | [Mobile app-1](http://course.cse.cuhk.edu.hk/~csci4140/slides/14_Mobile-App-1.pdf), [Mobile app-2](http://course.cse.cuhk.edu.hk/~csci4140/slides/15_Mobile-App-2.pdf) | 3/18 | [Mobile app-3](http://course.cse.cuhk.edu.hk/~csci4140/slides/16_Mobile-App-3.pdf) |
 | 10 | 3/24 | [HTML5](http://course.cse.cuhk.edu.hk/~csci4140/slides/17_HTML5.pdf) | 3/25 | [NoSQL](http://course.cse.cuhk.edu.hk/~csci4140/slides/18_NoSQL.pdf) |
+| | 3/31 | Reading week | 4/1 | Reading week |
+| 11 | 4/7 | Reading week | 4/8 | NoSQL | 
 
 ## Tutorial schedule
 
