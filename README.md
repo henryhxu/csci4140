@@ -46,6 +46,7 @@ Slides are downloadable from **CUHK network** only.
 | 10 | 3/24 | [HTML5](http://course.cse.cuhk.edu.hk/~csci4140/slides/17_HTML5.pdf) | 3/25 | [NoSQL](http://course.cse.cuhk.edu.hk/~csci4140/slides/18_NoSQL.pdf) |
 | | 3/31 | Reading week | 4/1 | Reading week |
 | 11 | 4/7 | Reading week | 4/8 | [NoSQL](http://course.cse.cuhk.edu.hk/~csci4140/slides/18_NoSQL.pdf)| 
+| 12 | 4/14 | [Hadoop](http://course.cse.cuhk.edu.hk/~csci4140/slides/19_Hadoop.pdf) | 4/15 | [Spark](http://course.cse.cuhk.edu.hk/~csci4140/slides/20_Spark.pdf)| 
 
 ## Tutorial schedule
 
