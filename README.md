@@ -141,14 +141,26 @@ Students are required to submit a signed declaration form that can be downloaded
 **Time: April 21,22** 
 **Location: Online**
 
-You will demonstrate what you have built in this semester to your classmates and the teaching team. Each group will have 10 minutes (including 2-minute Q&A) for the presentation.  
-The presentation is worth 30% of your project mark. Your project will be evaluated by other groups in the presentation.  
+You will demonstrate what you have built in this semester to your classmates and the teaching team. Each group will have 10 minutes (including 1 minute for setup, 7 minutes for presentation, and 2-minute Q&A). All members need to present. You need to turn on camera when presenting. 
+The presentation is worth 30% of your project mark. 
 
-Please submit your presentation slides to BlackBoard.
+Please submit your presentation slides to BlackBoard the night before your time slot. Failure to do so will result in 5-mark deduction.
+
+**Grading scheme for the presentation**
+
+Each group member will get the same mark for the presentation.
+(15 marks) Content, e.g. breadth and depth of the material presented, efforts involved in the project, etc.
+(10 marks) Quality, e.g. the use of English, the logical structure of the presentation, eye contact, etc. Using notes or other aids and simply reading out the notes will be penalized.
+(5 marks) Slide design, clarity, conciseness, appropriate use of animations, etc.
+
+Tips for a good presentation:
+
+On content: Present a clear, logical, and interesting story.
+On delivering: Speak up, and use the mic. Use simple English words, short sentences. Be enthusiastic about whatever you want to talk about. Do NOT memorize and recite. You only need to remember the key points you want to cover, not the exact sentences. Use eye contact with the audience. Use body language and gestures. Try to engage the audience with jokes or questions.
+On slide design: Do NOT use small fonts. Keep the slides simple and clear. No fancy background. Put only the necessary contents on slides. Do NOT put every sentence on slides, and read them out. Use examples and animations and figures to visualize the talk. You may even use videos or audio clips if you are confident in controlling time.
 
 **Presentation Schedule**
-| Group No. | Time | Repo | 
-| :---------------- | :--- | :--- |
+Refer to https://docs.google.com/spreadsheets/d/1tPZ6DxCki5ejS-JUSxG7ahBpevsff9nzS_38UUlFygo/edit?usp=sharing
 
 
 ### Proposal and report submission instructions
