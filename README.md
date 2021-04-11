@@ -149,9 +149,9 @@ Please submit your presentation slides to BlackBoard the night before your time 
 **Grading scheme for the presentation**
 
 Each group member will get the same mark for the presentation.
-(15 marks) Content, e.g. breadth and depth of the material presented, efforts involved in the project, etc.
-(10 marks) Quality, e.g. the use of English, the logical structure of the presentation, eye contact, etc. Using notes or other aids and simply reading out the notes will be penalized.
-(5 marks) Slide design, clarity, conciseness, appropriate use of animations, etc.
+- (15%) Content, e.g. breadth and depth of the material presented, efforts involved in the project, etc.
+- (10%) Quality, e.g. the use of English, the logical structure of the presentation, eye contact, etc. Using notes or other aids and simply reading out the notes will be penalized.
+- (5%) Slide design, clarity, conciseness, appropriate use of animations, etc.
 
 Tips for a good presentation:
 
