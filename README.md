@@ -159,8 +159,7 @@ On content: Present a clear, logical, and interesting story.
 On delivering: Speak up, and use the mic. Use simple English words, short sentences. Be enthusiastic about whatever you want to talk about. Do NOT memorize and recite. You only need to remember the key points you want to cover, not the exact sentences. Use eye contact with the audience. Use body language and gestures. Try to engage the audience with jokes or questions.
 On slide design: Do NOT use small fonts. Keep the slides simple and clear. No fancy background. Put only the necessary contents on slides. Do NOT put every sentence on slides, and read them out. Use examples and animations and figures to visualize the talk. You may even use videos or audio clips if you are confident in controlling time.
 
-**Presentation Schedule**
-Refer to https://docs.google.com/spreadsheets/d/1tPZ6DxCki5ejS-JUSxG7ahBpevsff9nzS_38UUlFygo/edit?usp=sharing
+**Presentation Schedule** https://docs.google.com/spreadsheets/d/1tPZ6DxCki5ejS-JUSxG7ahBpevsff9nzS_38UUlFygo/edit?usp=sharing
 
 
 ### Proposal and report submission instructions
