@@ -134,7 +134,7 @@ After you have finalized your proposal till project submission deadline.
 **Deadline: April 30**
 
 You will need to submit the source code, and a report of your project (60% of your project mark).  
-Students are required to submit a signed declaration form that can be downloaded [here](https://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc). Failure to comply with the University Policy may result in disciplinary action.
+Students are required to submit a signed declaration form that can be downloaded [here](https://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/p10.htm). Failure to comply with the University Policy may result in disciplinary action.
 
 ### Phase 4: Project Presentation
 
