@@ -67,6 +67,8 @@ Slides are downloadable from **CUHK network** only.
 | 10 | 3/25 | [Assignment 3](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_11.pptx)
 |  | 4/1 | Reading week |
 | 11 | 4/8 | [Docker](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_12.pptx) |
+| 12 | 4/15 | [Machine Learning](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_13.pptx) |
+| 13 | 4/21 | [Spark](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_14.pptx)
 
 ## Assignments
 
