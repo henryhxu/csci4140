@@ -47,6 +47,7 @@ Slides are downloadable from **CUHK network** only.
 | | 3/31 | Reading week | 4/1 | Reading week |
 | 11 | 4/7 | Reading week | 4/8 | [NoSQL](http://course.cse.cuhk.edu.hk/~csci4140/slides/18_NoSQL.pdf)| 
 | 12 | 4/14 | [Hadoop](http://course.cse.cuhk.edu.hk/~csci4140/slides/19_Hadoop.pdf) | 4/15 | [Spark](http://course.cse.cuhk.edu.hk/~csci4140/slides/20_Spark.pdf)| 
+| 13 | 4/21 | Project presentations | 4/22 | Project presentations, [Final exam](http://course.cse.cuhk.edu.hk/~csci4140/slides/21_Final-Exam.pdf)| 
 
 ## Tutorial schedule
 
