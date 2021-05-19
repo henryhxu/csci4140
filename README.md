@@ -173,7 +173,9 @@ Tips for a good presentation:
 
 ## Final Exam
 
-**Time: TBD. Location: TBD.**
+**Time: May 6, 3:30pm. Location: Zoom.**
+
+Model answer for the final exam is available [here](http://course.cse.cuhk.edu.hk/~csci4140/2021-model_answers.pdf).
 
 ## Course Policies
 
